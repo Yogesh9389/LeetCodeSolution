@@ -26,7 +26,7 @@ Feel free to explore the different solutions in the language of your choice.
 ## How to Use
 
 To access the solutions, you can clone this repository to your local machine using the following command:
-git clone 
+git clone https://github.com/Yogesh9389/LeetCodeSolution.git
 
 Once cloned, you can navigate to the specific problem and language folder to view the solution code. Each solution file contains the necessary code to solve the corresponding problem.
 
